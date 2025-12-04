@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3D3399FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DBackend%2B%2526%2BDevOps%2BDeveloper%3BEpitech%2BMontpellier%2BStudent%3BScalability%2B%257C%2BAutomation%2B%257C%2BSecurity" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend+Giga&pause=1000&color=20B0FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Noah+Lamont" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://www.noah-lamont.com/" target="_blank">🌍 Portfolio</a> •
@@ -133,25 +131,14 @@ I thrive on <strong>automation</strong>. If a task needs to be done twice, I wri
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoahLamont&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoahLamont&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahLamont&layout=compact&theme=dark" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=alpha0344&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alpha0344&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha0344&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoahLamont&theme=darkhub" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alpha0344&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
